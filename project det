@@ -1,0 +1,19 @@
+
+sudo apt instsll
+sudo apt updte
+sudo apt install docker.io
+git clone <lik copy>
+git pull
+cd demo<jicha>
+cd WebApp<jicha>
+sudo docker build -t iacsd .
+sudo docker run -d -p 7667:7667 iacsd
+sudo docker kill <id >
+
+git open
+git clone
+git add .
+git commit -m "yes"
+git push
+
+
